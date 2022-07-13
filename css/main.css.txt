@@ -1,4 +1,8 @@
-void func(void)
+void func1(void)
 {
 	printf("hello");
+}
+void func2(void)
+{
+	printf("world");
 }
